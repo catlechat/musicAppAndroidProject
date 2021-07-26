@@ -11,10 +11,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MusicApp">
-        <activity android:name=".ui.Classement"></activity>
-        <activity android:name=".Paroles" />
-        <activity android:name=".Album" />
-        <activity android:name=".Artiste" />
+-        <activity android:name=".Album" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
